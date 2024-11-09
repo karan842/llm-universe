@@ -5,3 +5,4 @@ opus_books_weights
 weights 
 *.json
 __pycache__/
+data/
