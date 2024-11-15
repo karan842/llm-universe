@@ -6,3 +6,5 @@ weights
 *.json
 __pycache__/
 data/
+model/
+*.pt
